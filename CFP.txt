@@ -90,7 +90,7 @@ Manolis Savva, Princeton University, USA
 Martijn van Otterlo, Vrije Universiteit Amsterdam, Netherlands
 Bonnie Dorr, Florida Institute for Human and Machine Cognition, USA
 Bruno Martin, University of Lisbon, Portugal
-Mari Broman Olsen, Microsoft, USA
+Mari Broman Olsen, Microsoft Research, USA
 Clare Voss, Army Research Lab, USA
 
 ----------------------------------------------------------------
