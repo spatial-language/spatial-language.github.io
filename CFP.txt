@@ -56,7 +56,7 @@ June 5 or 6, 2018  Workshop in New Orleans, Louisiana
 SUBMISSION AND SELECTION PROCESS
 ----------------------------------------------------------------
 
-We solicit long technical papers and short position statements describing previously unpublished work as well as abstracts of published works.  The full technical papers can be up to 8 pages, plus references. The short position papers can be up to 4 pages, plus references. Abstracts of published works can be up to two pages, plus references. All submissions should follow the format of NAACL 2018 proceedings. NAACL Style files are available LINK-HERE. 
+We solicit long technical papers and short position papers describing original, unpublished work as well as abstracts of previously published works.  The full technical papers can be up to 8 pages, plus references. The short position papers can be up to 4 pages, plus references. Abstracts of published works can be up to two pages, plus references. All submissions should follow the format of NAACL 2018 proceedings. NAACL Style files are available LINK-HERE. 
 
 Each submission will be reviewed by three program committee members. The reviewing process will be blind. Please ensure that papers are anonymous. Self-references that reveal the author's identity should be avoided. Papers that do not conform to these requirements will be rejected without review. 
 
