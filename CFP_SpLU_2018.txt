@@ -1,0 +1,106 @@
+----------------------------------------------------------------
+FIRST CALL FOR PAPERS
+----------------------------------------------------------------
+
+First International Workshop on Spatial Language Understanding at NAACL-HLT 2018, June 5/6, New Orleans, Louisiana, USA. 
+
+Website: https://spatial-language.github.io/
+
+---------------------------------------------------------------
+AIM AND SCOPE 
+---------------------------------------------------------------
+
+One of the essential functions of natural language is to express spatial relationships between objects. Linguistic constructs can encode highly complex, relational structures of objects, spatial relations between them, and patterns of motion through space relative to some reference point. Spatial language understanding is useful in many areas of research endeavors relating to and/or making use of human language, including robotics, navigation, geographic information systems, traffic management, natural language understanding and translation, and query answering systems. 
+
+Standardizing semantically specialized linguistic tasks related to spatial language especially seems challenging as it is hard to obtain an agreeable set of concepts, relationships and a formal spatial meaning representation that is domain independent. This has made research results on spatial language learning and reasoning diverse, task-specific and, to some extent, not comparable. While formal meaning representation is a general issue for language understanding, formalizing spatial concepts and building formal reasoning models based on those constitute challenging research problems with a wealth of prior foundational research that can be exploited and linked to language understanding. Existing qualitative and quantitative representation and reasoning models can be used for investigation of interoperabiltiy of machine learning and reasoning over spatial semantics. Research endeavors in this area could provide insights into many challenges of language understanding in general. Spatial semantics is also very well-connected and relevant to visualization of natural language, central to dealing with configurations in the physical world and motivating a combination of vision and language for richer spatial understanding. 
+
+This workshop highlights some of the above aspects of computational spatial language understanding including the following four areas: Spatial Language Meaning Representation (Continuous, Symbolic), Spatial Language Learning, Spatial Language Reasoning, and Combining Vision and Language for Spatial Understanding. The goal of the workshop is to initiate discussions across fields dealing with spatial language along with other modalities. The desired outcome is identification of shared as well as unique challenges, problems and future directions across the fields and various application domains related to spatial language understanding.
+
+For a full description, please look at the workshop website at https://spatial-language.github.io/ .
+
+----------------------------------------------------------------
+TOPICS OF INTEREST
+----------------------------------------------------------------
+
+Topics include, but are not limited to, the following:
+
+- Spatial meaning representations, continuous representations, ontologies, annotation schemes, linguistic corpora
+- Spatial information extraction from natural language
+- Spatial information extraction in robotics, multimodal environments, navigational instructions
+- Text mining for spatial information in GIS systems
+- Spatial information in query answering systems, answering locative questions, such as where-questions
+- Spatial information for visual question answering
+- Quantitative and qualitative reasoning with spatial information
+- Spatial reasoning based on natural language
+- Spatial reasoning based on multimodal information (vision and language)
+- Extraction of spatial common sense knowledge
+- Visualization of spatial language in 2-D and 3-D
+- Spatial natural language generation
+- Spatial language grounding
+
+----------------------------------------------------------------
+IMPORTANT DATES
+----------------------------------------------------------------
+
+March 2, 2018      Paper submissions due (23:59 EST)
+
+April 2, 2018      Notification of acceptance
+
+April 16, 2018     Camera-ready papers due
+
+June 5 or 6, 2018  Workshop in New Orleans, Louisiana
+
+----------------------------------------------------------------
+SUBMISSION AND SELECTION PROCESS
+----------------------------------------------------------------
+
+We solicit long technical papers and short position papers describing original, unpublished work as well as abstracts of previously published works. The full technical papers can be up to 8 pages, plus references. The short position papers can be up to 4 pages, plus references. Abstracts of published works can be up to two pages, plus references. All submissions should follow the format of NAACL 2018 proceedings. NAACL Style files are available at http://naacl2018.org/call_for_paper.html. 
+
+Please make submissions via Softconf at https://www.softconf.com/naacl2018/SpLU18.
+
+---------------------------------------------------------------
+INVITED SPEAKERS 
+---------------------------------------------------------------
+
+* Anthony G. Cohn, University of Leeds
+* James F. Allen, IHMC, University of Rochester
+
+---------------------------------------------------------------
+PROGRAM COMMITTEE 
+---------------------------------------------------------------
+
+* John A. Bateman, Universität Bremen, Germany
+* Anthony G. Cohn, University of Leeds, UK
+* Steven Bethard, The University of Arizona, USA
+* Raffaella Bernardi, University of Trento, Italy
+* Mehul Bhatt, Örebro University, Sweden
+* Yonatan Bisk, University of Washington, USA
+* Johan Bos, University of Groningen, Netherlands
+* Joyce Chai, Michigan State University, USA
+* Angel Xuan Chang, Stanford University, USA
+* Guillem Collell, KU Leuven, Belgium
+* Zoe Falomir, Universität Bremen, Germany
+* Julia Hockenmaier, University of Illinois at Urbana-Champaign, USA
+* Kirk Roberts, The University of Texas, USA
+* Manolis Savva, Princeton University, USA
+* Martijn van Otterlo, Vrije Universiteit Amsterdam, Netherlands
+* Bonnie J. Dorr, Florida Institute for Human and Machine Cognition, USA
+* Bruno Martin, University of Lisbon, Portugal
+* Mari Broman Olsen, Microsoft Research, USA
+* Clare Voss, Army Research Lab, USA
+
+----------------------------------------------------------------
+ORGANIZING COMMITTEE 
+----------------------------------------------------------------
+
+* Parisa Kordjamshidi, Tulane University, IHMC, <pkordjam@tulane.edu>
+* Archna Bhatia, IHMC, <abhatia@ihmc.us>
+* Umar Manzoor, Tulane University, <umanzoor@tulane.edu>
+* James Pustejovsky, Brandeis University, <jamesp@cs.brandeis.edu>
+* Marie-Francine Moens, KULeuven, <sien.moens@cs.kuleuven.be>
+
+----------------------------------------------------------------
+CONTACT 
+----------------------------------------------------------------
+
+Feel free to contact Organizing Committee at <naacl-splu-workshop@googlegroups.com>.
